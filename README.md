@@ -1,4 +1,6 @@
-#Shane Kennedy's Machine Learning Portfolio
+# Shane Kennedy's Machine Learning Portfolio
+
+![ML Banner](Images/mlbanner.jpg)
 
 ## About Me
 
@@ -70,5 +72,6 @@ In a world increasingly reliant on data-driven decision-making, access to accura
 - **Data Analysis**: With data stored locally, I intend to use this data in future projects.
 
 
-- GitHub Repository: [Link to GitHub Repository](https://github.com/yourusername/image-classification-project)
-- Feel free to reach out if you'd like more details or have any questions about my projects or skills!
+*GitHub Repository: [Link to GitHub Repository](https://github.com/yourusername/image-classification-project)*
+
+*Feel free to reach out if you'd like more details or have any questions about my projects or skills!*
