@@ -71,6 +71,41 @@ In a world increasingly reliant on data-driven decision-making, access to accura
 
 - **Data Analysis**: With data stored locally, I intend to use this data in future projects.
 
+#### Project: Webpage with Weather Chatbot using Local Database
+
+## Introduction
+
+In an era where technology is becoming increasingly integrated into our daily lives, having a chatbot that can provide weather forecasts in a conversational manner can be a valuable asset. This project aims to develop my skills with the creation of chatbots and builds off the project above. The chatbot will retrieve weather data from a local database and respond in a human-like text format.
+
+### Project Overview
+
+**Objective**: The main objective of this project is to develop a web-based chatbot that can provide weather forecasts based on user queries and data stored in a local database.
+
+**Key Components**:
+
+1. **User Interface**: A web page will be created to serve as the user interface. Users can input their queries about the weather through a prompt or chatbox.
+
+2. **Chatbot Development**: The chatbot will be designed to understand natural language queries related to weather forecasts. It will utilize Natural Language Processing (NLP) techniques to process and interpret user inputs.
+
+3. **Local Database Integration**: Weather data, previously collected from a weather website and stored in a local database as part of a previous project, will be used by the chatbot to provide responses. The chatbot will query the database to retrieve weather forecasts for specific dates.
+
+4. **Conversational Responses**: The chatbot will respond to user queries in a conversational and human-like manner. Responses will include weather conditions, temperatures, and any other relevant information for the specified date.
+
+5. **Web Interaction**: Users will interact with the chatbot through the web page, where they can ask questions like, "What will the weather be like on [specific date]?" The chatbot will generate informative and user-friendly responses.
+
+**Benefits**:
+
+- **User-Friendly Access**: The web-based chatbot provides an easy and intuitive way for users to inquire about weather forecasts without needing to navigate complex interfaces or APIs.
+
+- **Conversational Experience**: Users can have a natural conversation with the chatbot, making the interaction more engaging and user-friendly.
+
+- **Data Utilization**: The project leverages previously collected weather data, making efficient use of data already available in the local database.
+
+- **Integration Potential**: The chatbot can be further expanded and integrated into other platforms or applications to provide weather information seamlessly.
+
+By creating a chatbot with access to a local weather database, this project enhances the accessibility and usability of weather information for users in a conversational manner.
+
+
 
 *GitHub Repository: [Link to GitHub Repository](https://github.com/yourusername/image-classification-project)*
 
