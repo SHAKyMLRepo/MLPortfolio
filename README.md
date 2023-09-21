@@ -73,11 +73,11 @@ In a world increasingly reliant on data-driven decision-making, access to accura
 
 #### Project: Webpage with Weather Chatbot using Local Database
 
-## Introduction
+##### Introduction
 
 In an era where technology is becoming increasingly integrated into our daily lives, having a chatbot that can provide weather forecasts in a conversational manner can be a valuable asset. This project aims to develop my skills with the creation of chatbots and builds off the project above. The chatbot will retrieve weather data from a local database and respond in a human-like text format.
 
-### Project Overview
+##### Project Overview
 
 **Objective**: The main objective of this project is to develop a web-based chatbot that can provide weather forecasts based on user queries and data stored in a local database.
 
