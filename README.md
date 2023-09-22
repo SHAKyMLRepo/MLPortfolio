@@ -6,7 +6,9 @@
 
 I am a fourth-year student at SETU, Carlow, with a strong passion for Machine Learning. My interests in Machine Learning include Object Identification, Image Processing, and Chatbots. I am at the beginning of my Machine Learning journey but enthusiastic about learning and completing projects to further my skills and knowledge.
 
-## Skills and Experience
+## Experience
+Worked six monthes internship in the Enterprise Data department of Unum Ireland. Here I got to develop skills in a broad range of Data Science skills including Data Cleaning, Data Analysis and Data Pipelines. Projects I worked on during that time was the creation of a Data Pipeline to automate the creation of reference tables for one of their Data Warehouses and an Intern led project which created a Data Analysis Dashboard from live data from one of Unum's Enterprise application.
+## Skills
 
 #### Infrastructures
 - Cloud Computing (AWS, PythonAnywhere)
@@ -41,15 +43,15 @@ I am a fourth-year student at SETU, Carlow, with a strong passion for Machine Le
 - Linux/Unix Systems
 - Web Development (HTML, CSS, Flask, Anvil, React)
 
-### Current Projects
+## Current Projects
 
-#### Project: Automated Data Scraping from Weather Website and storage to a local database
+### Project: Automated Data Scraping from Weather Website and storage to a local database
 
-##### Introduction
+#### Introduction
 
 In a world increasingly reliant on data-driven decision-making, access to accurate and up-to-date weather information is crucial for various applications, from agriculture to logistics and personal planning. This project aims to hone my skills in data scraping data from a website. This data will be in an unstructured state so data cleaning and transformation skills will also be required. This process of will retrieve, clean and transform the data automatically and then store it in a local database for easy access and analysis.
 
-##### Project Overview
+#### Project Overview
 
 **Objective**: The primary goal of this project is to automate the retrieval of weather data from a selected weather website and establish a local database to store this data efficiently.
 
@@ -71,13 +73,13 @@ In a world increasingly reliant on data-driven decision-making, access to accura
 
 - **Data Analysis**: With data stored locally, I intend to use this data in future projects.
 
-#### Project: Webpage with Weather Chatbot using Local Database
+### Project: Webpage with Weather Chatbot using Local Database
 
-##### Introduction
+#### Introduction
 
 In an era where technology is becoming increasingly integrated into our daily lives, having a chatbot that can provide weather forecasts in a conversational manner can be a valuable asset. This project aims to develop my skills with the creation of chatbots and builds off the project above. The chatbot will retrieve weather data from a local database and respond in a human-like text format.
 
-##### Project Overview
+#### Project Overview
 
 **Objective**: The main objective of this project is to develop a web-based chatbot that can provide weather forecasts based on user queries and data stored in a local database.
 
