@@ -107,7 +107,7 @@ In an era where technology is becoming increasingly integrated into our daily li
 
 By creating a chatbot with access to a local weather database, this project enhances the accessibility and usability of weather information for users in a conversational manner.
 
-### House Price Predictor using Linear Regression
+### Project: House Price Predictor using Linear Regression
 
 #### Introduction
 
