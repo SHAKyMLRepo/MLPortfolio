@@ -34,9 +34,6 @@ Worked six monthes internship in the Enterprise Data department of Unum Ireland.
 
 #### Machine Learning Algorithms
 - Linear Regression
-- Decision Trees and Random Forest
-- Neural Networks (Deep Learning)
-- Support Vector Machines
 
 #### Other Technical Skills
 - Git and Version Control
