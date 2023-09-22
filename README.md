@@ -107,13 +107,13 @@ In an era where technology is becoming increasingly integrated into our daily li
 
 By creating a chatbot with access to a local weather database, this project enhances the accessibility and usability of weather information for users in a conversational manner.
 
-# House Price Predictor using Linear Regression
+### House Price Predictor using Linear Regression
 
-## Introduction
+#### Introduction
 
 The real estate market is a dynamic and complex environment, and predicting house prices accurately is a valuable tool for homeowners, buyers, and real estate professionals. This project aims to develop a machine learning model that can predict house prices based on various features and attributes, using the Linear Regression algorithm.
 
-### Project Overview
+#### Project Overview
 
 **Objective**: The primary objective of this project is to create a House Price Predictor application that employs Linear Regression to estimate the selling price of houses.
 
