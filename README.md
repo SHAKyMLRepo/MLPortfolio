@@ -107,6 +107,33 @@ In an era where technology is becoming increasingly integrated into our daily li
 
 By creating a chatbot with access to a local weather database, this project enhances the accessibility and usability of weather information for users in a conversational manner.
 
+# House Price Predictor using Linear Regression
+
+## Introduction
+
+The real estate market is a dynamic and complex environment, and predicting house prices accurately is a valuable tool for homeowners, buyers, and real estate professionals. This project aims to develop a machine learning model that can predict house prices based on various features and attributes, using the Linear Regression algorithm.
+
+### Project Overview
+
+**Objective**: The primary objective of this project is to create a House Price Predictor application that employs Linear Regression to estimate the selling price of houses.
+
+**Key Components**:
+
+
+1. **Model Development**: Implement a Linear Regression model using the machine learning library Scikit-Learn. Train the model on the a Kaggle dataset to learn the relationships between the selected features and house prices.
+
+2. **Model Evaluation**: Evaluate the performance of the Linear Regression model a subset of the data which will be held back during training.
+
+3. **User Interface**: Create a simple text interface to allow Users to query the model.
+
+
+**Benefits**:
+
+- **Accurate Predictions**: The project offers a reliable tool for estimating house prices based on various factors, enabling informed decisions for buyers and sellers.
+
+- **Data-Driven Insights**: Users can gain insights into the factors influencing house prices, helping them make informed choices.
+
+- **Real-World Application**: The project demonstrates the application of machine learning in a real-world scenario and highlights the potential for predictive modeling in the real estate industry.
 
 
 *GitHub Repository: [Link to GitHub Repository](https://github.com/yourusername/image-classification-project)*
