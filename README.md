@@ -5,6 +5,7 @@
 ## About Me
 
 I am a fourth-year student at SETU, Carlow, with a strong passion for Machine Learning. My interests in Machine Learning include Object Identification, Image Processing, and Chatbots. I am at the beginning of my Machine Learning journey but enthusiastic about learning and completing projects to further my skills and knowledge.
+*If you wish to find out more about my experience and skills:[LinkedIn Profile](https://www.linkedin.com/in/shane-kennedy-8b6a74251/)*
 
 ## Experience
 Worked six monthes internship in the Enterprise Data department of Unum Ireland. Here I got to develop skills in a broad range of Data Science skills including Data Cleaning, Data Analysis and Data Pipelines. Projects I worked on during that time was the creation of a Data Pipeline to automate the creation of reference tables for one of their Data Warehouses and an Intern led project which created a Data Analysis Dashboard from live data from one of Unum's Enterprise application.
@@ -133,6 +134,6 @@ The real estate market is a dynamic and complex environment, and predicting hous
 - **Real-World Application**: The project demonstrates the application of machine learning in a real-world scenario and highlights the potential for predictive modeling in the real estate industry.
 
 
-*GitHub Repository: [Link to GitHub Repository](https://github.com/yourusername/image-classification-project)*
+*GitHub Repository: [Link to GitHub Repository](https://github.com/SHAKyMLRepo/MLPortfolio/)*
 
 *Feel free to reach out if you'd like more details or have any questions about my projects or skills!*
